@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yashika</h1>
+<h3 align="center">A nocturnal human being who loves to manipulate data and make sense out of it.</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=yashika51 alt=yashika51/> </p>
 
-<!--
-**yashika51/yashika51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate on **Data Science Projects**
 
-Here are some ideas to get you started:
--->
+- 💬 Ask me about **Python, Data Science, NLP, Machine Learning, Diversity, Open Source**
 
-- 🔭 I’m currently working on scikit-learn
-- 🌱 I’m currently learning NLP
-- 👯 I’m looking to collaborate on projects
-- 💬 Ask me about data science, open source and diversity
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yashikasharma5174/)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can sleep for more than 14 hours a day
+- 📫 How to reach me **sharmayashika996@gmail.com**
 
+- ⚡ Fun fact **I can(but I don't) sleep for ~14 hours per day**
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=yashika51&show_icons=true alt=yashika51 /> </p>
+
+<p align="center">
+<a href=https://dev.to/yashika51 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="yashika51" height="20" width="20" /></a>
+<a href=https://twitter.com/yashika51 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="yashika51" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/yashikasharma5174/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="yashikasharma5174/" height="20" width="20" /></a>
+<a href=https://instagram.com/_yashika_sharma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_yashika_sharma" height="20" width="20" /></a>
+</p>
