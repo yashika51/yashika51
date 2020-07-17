@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Python, Data Science, NLP, Machine Learning, Diversity, Open Source**
 
-- 📫 How to reach me **sharmayashika996@gmail.com**
+- 📫 How to reach me **[Send a message!](https://twitter.com/yashika51)**
 
 - ⚡ Fun fact **I can(but I don't) sleep for ~14 hours per day**
 
