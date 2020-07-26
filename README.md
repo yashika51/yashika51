@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I can(but I don't) sleep for ~14 hours per day**
 
+- :smile: I share some nice cool hacks as gists [here](https://gist.github.com/yashika51).
+
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=yashika51&show_icons=true alt=yashika51 /> </p>
 
 <p align="center">
