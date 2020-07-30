@@ -17,6 +17,6 @@
 <p align="center">
 <a href=https://dev.to/yashika51 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="yashika51" height="20" width="20" /></a>
 <a href=https://twitter.com/yashika51 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="yashika51" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/yashikasharma5174/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="yashikasharma5174/" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/yashikasharma5174/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="yashika51" height="20" width="20" /></a>
 <a href=https://instagram.com/_yashika_sharma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_yashika_sharma" height="20" width="20" /></a>
 </p>
