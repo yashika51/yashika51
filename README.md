@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Yashika</h1>
-<h3 align="center">A nocturnal human being who loves to manipulate data and make sense out of it.</h3>
+<h1 align="center">Hey There! 👋, I'm Yashika</h1>
+
+![](Intro.gif)
+
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=yashika51 alt=yashika51/> </p>
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 💬 Ask me about **Python, Data Science, NLP, Machine Learning, Diversity, Open Source**
+To reach out, send a message **[here!](https://twitter.com/yashika51)** 
 
-- 📫 How to reach me **[Send a message!](https://twitter.com/yashika51)**
+I share some nice cool hacks as gists [here](https://gist.github.com/yashika51):smile:
 
-- ⚡ Fun fact **I can(but I don't) sleep for ~14 hours per day**
-
-- :smile: I share some nice cool hacks as gists [here](https://gist.github.com/yashika51).
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=yashika51&show_icons=true alt=yashika51 /> </p>
 
