@@ -1,4 +1,3 @@
-<h1 align="center">Hey There! 👋, I'm Yashika</h1>
 
 <p align="center"> <img src=https://media.giphy.com/media/XxSTiWybZmJ4XNOpIe/giphy.gif width="500"/> </p>
 
@@ -8,7 +7,7 @@
 
 To reach out, send a message **[here!](https://twitter.com/yashika51)** 
 
-I share some nice cool hacks as gists [here](https://gist.github.com/yashika51):smile:
+I also share some nice cool hacks as gists [here](https://gist.github.com/yashika51):smile:
 
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=yashika51&show_icons=true alt=yashika51 /> </p>
