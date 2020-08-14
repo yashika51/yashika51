@@ -1,6 +1,6 @@
 <h1 align="center">Hey There! 👋, I'm Yashika</h1>
 
-<p align="center"> <img src=https://media.giphy.com/media/YMRTIMu7z0zWXKPHUs/giphy.gif width="700"/> </p>
+<p align="center"> <img src=https://media.giphy.com/media/XxSTiWybZmJ4XNOpIe/giphy.gif width="500"/> </p>
 
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=yashika51 alt=yashika51/> </p>
