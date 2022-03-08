@@ -7,6 +7,8 @@
 
 To reach out, send a message **[here!](https://twitter.com/yashika51)** 
 
+I have recently started writing again on Medium, this time more about life experiences and lessons as I grow, if you are interested in checking it out, find it **[here!](https://medium.com/@yashika51)**
+
 I also share some nice cool hacks as gists [here](https://gist.github.com/yashika51):smile:
 
 
